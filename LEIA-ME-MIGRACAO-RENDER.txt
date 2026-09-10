@@ -1,0 +1,92 @@
+VITRINE SETORIAL BRASIL — MIGRAÇÃO SURGE -> RENDER
+
+NOVA URL PREPARADA:
+https://vitrine-setorial-brasil.onrender.com/
+
+IMPORTANTE:
+O pacote está configurado com o nome de serviço:
+vitrine-setorial-brasil
+
+Se o Render aceitar esse nome, a URL esperada será:
+https://vitrine-setorial-brasil.onrender.com/
+
+Se o Render informar que o nome não está disponível e criar outra URL,
+NÃO cadastre ainda no Search Console. Envie a URL final na conversa para
+ajustarmos canonical, sitemap, robots, Open Graph e Schema.
+
+============================================================
+PASSO 1 — CRIAR REPOSITÓRIO NO GITHUB
+============================================================
+
+1. Extraia TODO este ZIP.
+2. Dê dois cliques em 1-ABRIR-GITHUB.bat.
+3. No GitHub, crie um novo repositório chamado:
+   vitrine-setorial-brasil
+4. Pode deixar o repositório público.
+5. Depois de criar, use a opção de adicionar/upload de arquivos.
+6. Envie TODO o conteúdo desta pasta:
+   - render.yaml
+   - pasta site
+   - .gitignore
+   - demais arquivos de instrução
+
+Não envie o ZIP fechado para dentro do repositório.
+
+============================================================
+PASSO 2 — CRIAR O SITE NO RENDER
+============================================================
+
+1. Dê dois cliques em 2-ABRIR-RENDER.bat.
+2. Entre na sua conta do Render.
+3. Clique em New.
+4. Escolha Blueprint.
+5. Conecte o GitHub.
+6. Selecione o repositório vitrine-setorial-brasil.
+7. O Render encontrará automaticamente o arquivo render.yaml.
+8. Confira que o serviço se chama:
+   vitrine-setorial-brasil
+9. Clique para aplicar/deploy do Blueprint.
+
+O arquivo render.yaml já informa:
+- runtime: static
+- pasta publicada: ./site
+- sem aplicação PHP/Node;
+- sitemap servido como XML;
+- robots.txt servido como texto;
+- cache curto para sitemap e robots;
+- cache de assets configurado.
+
+============================================================
+PASSO 3 — CONFERIR ANTES DO SEARCH CONSOLE
+============================================================
+
+Quando o Render concluir, abra:
+
+https://vitrine-setorial-brasil.onrender.com/
+https://vitrine-setorial-brasil.onrender.com/robots.txt
+https://vitrine-setorial-brasil.onrender.com/sitemap.xml
+https://vitrine-setorial-brasil.onrender.com/googleb66210940879831a.html
+https://vitrine-setorial-brasil.onrender.com/ahrefs_7c87796cb32efe61e4ded78d92df5cb61170787312e976f36b9fbfeebcbe35fb.html
+https://vitrine-setorial-brasil.onrender.com/servicos/
+https://vitrine-setorial-brasil.onrender.com/negocios/
+https://vitrine-setorial-brasil.onrender.com/conteudos/
+https://vitrine-setorial-brasil.onrender.com/negocios/super-hidro-desentupidora/
+
+O robots.txt deve mostrar Allow: /
+O sitemap.xml deve abrir normalmente.
+
+Só depois disso cadastre a nova propriedade no Search Console.
+
+============================================================
+SEO / MIGRAÇÃO
+============================================================
+
+Foram atualizados do Render para o Render:
+- canonical;
+- sitemap;
+- robots.txt;
+- Open Graph;
+- Schema;
+- URLs absolutas existentes.
+
+O visual e as páginas aprovadas do Vitrine foram preservados.
