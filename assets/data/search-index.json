@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Serviços",
+    "description": "Guias práticos para entender contratação, manutenção e escopo.",
+    "category": "Serviços",
+    "url": "/servicos/"
+  },
+  {
+    "title": "Negócios",
+    "description": "Perfis editoriais de empresas e páginas relacionadas.",
+    "category": "Negócios",
+    "url": "/negocios/"
+  },
+  {
+    "title": "Conteúdos",
+    "description": "Leituras informativas para aprofundar pesquisas.",
+    "category": "Conteúdos",
+    "url": "/conteudos/"
+  },
+  {
+    "title": "Super Hidro Desentupidora",
+    "description": "Perfil editorial da Super Hidro Desentupidora com informações organizadas sobre desentupimento, limpa fossa, hidrojateamento e páginas relacionadas.",
+    "category": "Negócios",
+    "url": "/negocios/super-hidro-desentupidora/"
+  },
+  {
+    "title": "Como escolher uma desentupidora em São Paulo sem decidir apenas pelo preço",
+    "description": "Critérios de atendimento, diagnóstico, equipamentos e escopo para comparar propostas antes de autorizar um serviço.",
+    "category": "Serviços",
+    "url": "/servicos/como-escolher-desentupidora-em-sao-paulo/"
+  },
+  {
+    "title": "Limpa fossa em São Paulo: sinais de atenção e planejamento antes da urgência",
+    "description": "Entenda sinais que justificam avaliação, como preparar o acesso e quais pontos confirmar ao contratar limpa fossa em São Paulo.",
+    "category": "Serviços",
+    "url": "/servicos/limpa-fossa-em-sao-paulo-sinais-e-planejamento/"
+  },
+  {
+    "title": "Limpeza de fossa: o que preparar antes da chegada do caminhão",
+    "description": "Um roteiro operacional para residências, condomínios e empresas organizarem acesso, segurança e informações antes da limpeza.",
+    "category": "Serviços",
+    "url": "/servicos/limpeza-de-fossa-planejamento-operacional/"
+  },
+  {
+    "title": "Hidrojateamento em São Paulo: quando a limpeza por alta pressão faz sentido",
+    "description": "Veja em quais situações o hidrojateamento pode ser considerado e quais perguntas fazer antes de contratar limpeza por alta pressão.",
+    "category": "Serviços",
+    "url": "/servicos/hidrojateamento-quando-faz-sentido/"
+  },
+  {
+    "title": "Limpeza de caixa de gordura em São Paulo: como montar uma rotina de manutenção",
+    "description": "Orientações para acompanhar sinais, reduzir resíduos e organizar a limpeza de caixa de gordura de forma preventiva.",
+    "category": "Serviços",
+    "url": "/servicos/limpeza-de-caixa-de-gordura-em-sao-paulo-rotina/"
+  },
+  {
+    "title": "Depois do desentupimento: checklist para reduzir a chance de recorrência",
+    "description": "O que observar após o atendimento e quais informações guardar para identificar padrões caso o problema volte.",
+    "category": "Serviços",
+    "url": "/servicos/pos-atendimento-desentupimento-checklist/"
+  },
+  {
+    "title": "Entupimento recorrente: o que observar antes de solicitar novo atendimento",
+    "description": "Um roteiro para registrar frequência, pontos afetados e sinais que ajudam a explicar melhor um problema que volta.",
+    "category": "Conteúdos",
+    "url": "/conteudos/entupimento-recorrente-o-que-observar/"
+  },
+  {
+    "title": "Condomínios: como organizar manutenção preventiva e ocorrências da rede",
+    "description": "Uma forma simples de registrar chamados, recorrências e serviços para apoiar decisões de manutenção em áreas compartilhadas.",
+    "category": "Conteúdos",
+    "url": "/conteudos/condominios-manutencao-preventiva-rede-hidraulica/"
+  },
+  {
+    "title": "Caixa de gordura: sinais que pedem atenção e organização preventiva",
+    "description": "Entenda quais mudanças de funcionamento merecem avaliação e como montar um histórico simples de inspeção e limpeza.",
+    "category": "Conteúdos",
+    "url": "/conteudos/caixa-de-gordura-sinais-que-pedem-atencao/"
+  },
+  {
+    "title": "Hidrojateamento ou desentupimento: diferenças que ajudam a entender a solução",
+    "description": "Duas abordagens podem aparecer na mesma pesquisa, mas atendem cenários diferentes e dependem de avaliação do problema.",
+    "category": "Conteúdos",
+    "url": "/conteudos/hidrojateamento-e-desentupimento-entenda-diferencas/"
+  },
+  {
+    "title": "Para que serve o suplemento Mounjax? Como avaliar informações antes de decidir",
+    "description": "Um roteiro de leitura crítica para separar proposta comercial, informações de rótulo, ingredientes e expectativas sobre o produto.",
+    "category": "Conteúdos",
+    "url": "/conteudos/para-que-serve-o-suplemento-mounjax-como-avaliar-informacoes/"
+  }
+]
