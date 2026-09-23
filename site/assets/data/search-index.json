@@ -1,92 +1,254 @@
 [
   {
-    "title": "Serviços",
-    "description": "Guias práticos para entender contratação, manutenção e escopo.",
-    "category": "Serviços",
-    "url": "/servicos/"
-  },
-  {
-    "title": "Negócios",
-    "description": "Perfis editoriais de empresas e páginas relacionadas.",
-    "category": "Negócios",
-    "url": "/negocios/"
-  },
-  {
-    "title": "Conteúdos",
-    "description": "Leituras informativas para aprofundar pesquisas.",
-    "category": "Conteúdos",
-    "url": "/conteudos/"
+    "title": "Vitrine Setorial Brasil",
+    "url": "/",
+    "description": "Empresas, serviços e conteúdos em diferentes segmentos.",
+    "type": "Página"
   },
   {
     "title": "Super Hidro Desentupidora",
-    "description": "Perfil editorial da Super Hidro Desentupidora com informações organizadas sobre desentupimento, limpa fossa, hidrojateamento e páginas relacionadas.",
-    "category": "Negócios",
-    "url": "/negocios/super-hidro-desentupidora/"
+    "url": "/negocios/super-hidro-desentupidora/",
+    "description": "Empresa que divulga serviços de desentupimento, limpa fossa, hidrojateamento e limpeza de caixa de gordura em São Paulo.",
+    "type": "Negócio"
   },
   {
-    "title": "Como escolher uma desentupidora em São Paulo sem decidir apenas pelo preço",
-    "description": "Critérios de atendimento, diagnóstico, equipamentos e escopo para comparar propostas antes de autorizar um serviço.",
-    "category": "Serviços",
-    "url": "/servicos/como-escolher-desentupidora-em-sao-paulo/"
+    "title": "Oranza",
+    "url": "/negocios/oranza/",
+    "description": "Serviço privado de pesquisa, preparação, protocolo e acompanhamento de pedidos de registro de marca perante o INPI.",
+    "type": "Negócio"
   },
   {
-    "title": "Limpa fossa em São Paulo: sinais de atenção e planejamento antes da urgência",
-    "description": "Entenda sinais que justificam avaliação, como preparar o acesso e quais pontos confirmar ao contratar limpa fossa em São Paulo.",
-    "category": "Serviços",
-    "url": "/servicos/limpa-fossa-em-sao-paulo-sinais-e-planejamento/"
+    "title": "Clínica Ser Saúde Mental",
+    "url": "/negocios/clinica-ser-saude-mental/",
+    "description": "Instituição que apresenta modalidades de atendimento em saúde mental, incluindo consultas, hospital-dia e outras possibilidades conforme avaliação profissional.",
+    "type": "Negócio"
   },
   {
-    "title": "Limpeza de fossa: o que preparar antes da chegada do caminhão",
-    "description": "Um roteiro operacional para residências, condomínios e empresas organizarem acesso, segurança e informações antes da limpeza.",
-    "category": "Serviços",
-    "url": "/servicos/limpeza-de-fossa-planejamento-operacional/"
+    "title": "HR Fundações",
+    "url": "/negocios/hr-fundacoes/",
+    "description": "Empresa de engenharia que divulga serviços de sondagem de solo e execução de fundações, incluindo estacas escavadas e hélice contínua monitorada.",
+    "type": "Negócio"
   },
   {
-    "title": "Hidrojateamento em São Paulo: quando a limpeza por alta pressão faz sentido",
-    "description": "Veja em quais situações o hidrojateamento pode ser considerado e quais perguntas fazer antes de contratar limpeza por alta pressão.",
-    "category": "Serviços",
-    "url": "/servicos/hidrojateamento-quando-faz-sentido/"
+    "title": "Clínica Especialli",
+    "url": "/negocios/clinica-especialli/",
+    "description": "Clínica odontológica associada a temas de implantes, ortodontia, estética dental e harmonização orofacial em Planaltina, Distrito Federal.",
+    "type": "Negócio"
   },
   {
-    "title": "Limpeza de caixa de gordura em São Paulo: como montar uma rotina de manutenção",
-    "description": "Orientações para acompanhar sinais, reduzir resíduos e organizar a limpeza de caixa de gordura de forma preventiva.",
-    "category": "Serviços",
-    "url": "/servicos/limpeza-de-caixa-de-gordura-em-sao-paulo-rotina/"
+    "title": "Desentupidora em São Paulo: critérios para comparar atendimento e escopo",
+    "url": "/servicos/como-escolher-desentupidora-em-sao-paulo/",
+    "description": "Antes de contratar, entenda diagnóstico, acesso, técnica prevista e o que está incluído no atendimento.",
+    "type": "Serviço"
   },
   {
-    "title": "Depois do desentupimento: checklist para reduzir a chance de recorrência",
-    "description": "O que observar após o atendimento e quais informações guardar para identificar padrões caso o problema volte.",
-    "category": "Serviços",
-    "url": "/servicos/pos-atendimento-desentupimento-checklist/"
+    "title": "Limpeza de caixa de gordura em São Paulo: rotina, sinais e prevenção",
+    "url": "/servicos/limpeza-de-caixa-de-gordura-em-sao-paulo-rotina/",
+    "description": "Entenda como observar saturação, reduzir resíduos e organizar uma rotina compatível com o uso do imóvel.",
+    "type": "Serviço"
   },
   {
-    "title": "Entupimento recorrente: o que observar antes de solicitar novo atendimento",
-    "description": "Um roteiro para registrar frequência, pontos afetados e sinais que ajudam a explicar melhor um problema que volta.",
-    "category": "Conteúdos",
-    "url": "/conteudos/entupimento-recorrente-o-que-observar/"
+    "title": "Hidrojateamento em São Paulo: quando a técnica pode fazer sentido",
+    "url": "/servicos/hidrojateamento-quando-faz-sentido/",
+    "description": "Pressão, vazão, tipo de resíduo e condição da tubulação precisam ser avaliados antes da aplicação.",
+    "type": "Serviço"
   },
   {
-    "title": "Condomínios: como organizar manutenção preventiva e ocorrências da rede",
-    "description": "Uma forma simples de registrar chamados, recorrências e serviços para apoiar decisões de manutenção em áreas compartilhadas.",
-    "category": "Conteúdos",
-    "url": "/conteudos/condominios-manutencao-preventiva-rede-hidraulica/"
+    "title": "Limpa fossa em São Paulo: quando procurar e o que confirmar",
+    "url": "/servicos/limpa-fossa-em-sao-paulo-sinais-e-planejamento/",
+    "description": "Planejamento de acesso, segurança e destinação ajuda a organizar a contratação do serviço.",
+    "type": "Serviço"
   },
   {
-    "title": "Caixa de gordura: sinais que pedem atenção e organização preventiva",
-    "description": "Entenda quais mudanças de funcionamento merecem avaliação e como montar um histórico simples de inspeção e limpeza.",
-    "category": "Conteúdos",
-    "url": "/conteudos/caixa-de-gordura-sinais-que-pedem-atencao/"
+    "title": "Limpeza de fossa: planejamento operacional antes da execução",
+    "url": "/servicos/limpeza-de-fossa-planejamento-operacional/",
+    "description": "Acesso, equipamento, segurança e registro do serviço devem ser definidos antes da chegada da equipe.",
+    "type": "Serviço"
   },
   {
-    "title": "Hidrojateamento ou desentupimento: diferenças que ajudam a entender a solução",
-    "description": "Duas abordagens podem aparecer na mesma pesquisa, mas atendem cenários diferentes e dependem de avaliação do problema.",
-    "category": "Conteúdos",
-    "url": "/conteudos/hidrojateamento-e-desentupimento-entenda-diferencas/"
+    "title": "Pós-atendimento de desentupimento: checklist para acompanhar o resultado",
+    "url": "/servicos/pos-atendimento-desentupimento-checklist/",
+    "description": "Depois do serviço, registre o que foi feito e observe se os sinais retornam.",
+    "type": "Serviço"
+  },
+  {
+    "title": "Registro de marca: o que organizar antes de apresentar um pedido ao INPI",
+    "url": "/servicos/registro-de-marca/",
+    "description": "Pesquisa, titularidade, sinal e produtos ou serviços precisam estar coerentes antes do protocolo.",
+    "type": "Serviço"
+  },
+  {
+    "title": "Internação psiquiátrica em Brasília: como entender modalidades e critérios de cuidado",
+    "url": "/servicos/internacao-psiquiatrica-brasilia/",
+    "description": "A indicação de internação depende de avaliação clínica, risco, suporte disponível e necessidade de cuidado intensivo.",
+    "type": "Serviço"
+  },
+  {
+    "title": "Sondagem de solo: o que perguntar antes de planejar fundações",
+    "url": "/servicos/sondagem-de-solo/",
+    "description": "Quantidade de furos, localização, método e relatório precisam estar alinhados ao porte e às decisões do projeto.",
+    "type": "Serviço"
+  },
+  {
+    "title": "Implantes dentários: como interpretar avaliação, planejamento e etapas do tratamento",
+    "url": "/servicos/implantes-dentarios/",
+    "description": "Condição óssea, saúde bucal, exames e objetivos do paciente orientam a indicação e o planejamento.",
+    "type": "Serviço"
+  },
+  {
+    "title": "Entupimento recorrente: sinais que ajudam a entender por que o problema volta",
+    "url": "/conteudos/entupimento-recorrente-o-que-observar/",
+    "description": "Frequência, pontos afetados e histórico do imóvel ajudam a montar uma descrição mais útil antes de um novo atendimento.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Limpeza de fossa: planejamento, acesso e cuidados antes do serviço",
+    "url": "/conteudos/limpeza-de-fossa-planejamento-e-cuidados/",
+    "description": "Acesso ao local, frequência de uso e condições de segurança devem ser verificados antes da contratação.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Hidrojateamento: aplicações, pressão e limites que precisam ser avaliados",
+    "url": "/conteudos/hidrojateamento-e-desentupimento-entenda-diferencas/",
+    "description": "A técnica usa água sob pressão e exige definição correta do equipamento, do acesso e da condição da tubulação.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Caixa de gordura: sinais de atenção, rotina e prevenção",
+    "url": "/conteudos/caixa-de-gordura-sinais-que-pedem-atencao/",
+    "description": "Mau cheiro, escoamento lento e retorno de água podem indicar a necessidade de inspeção e manutenção.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Manutenção preventiva em condomínios: como organizar inspeções e histórico",
+    "url": "/conteudos/condominios-manutencao-preventiva-rede-hidraulica/",
+    "description": "Rotinas de registro e inspeção ajudam síndicos e administradores a entender recorrências antes de uma emergência.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Registro de marca: como transformar a pesquisa prévia em decisões mais claras",
+    "url": "/conteudos/registro-de-marca-pesquisa-previa/",
+    "description": "Antes do protocolo, vale organizar sinais semelhantes, titulares, atividades e riscos que precisam de análise.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "INPI e registro de marca: etapas que merecem acompanhamento depois do protocolo",
+    "url": "/conteudos/inpi-registro-de-marca-etapas/",
+    "description": "O protocolo inicia um processo administrativo que envolve publicação, exame e eventuais manifestações.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Registro de marca no INPI: documentos e dados que vale conferir antes de enviar",
+    "url": "/conteudos/registro-de-marca-inpi-documentos/",
+    "description": "Titularidade, representação, sinal e atividade precisam estar coerentes para reduzir retrabalho no pedido.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "INPI: registrar marca envolve taxas, escopo e decisões além do protocolo inicial",
+    "url": "/conteudos/inpi-registrar-marca-custos-e-decisoes/",
+    "description": "Antes de contratar, compare o que está incluído no serviço e diferencie taxas oficiais de honorários privados.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Registrar marca no INPI: por que o acompanhamento continua depois do envio",
+    "url": "/conteudos/registrar-marca-no-inpi-acompanhamento/",
+    "description": "Monitorar publicações, prazos e decisões evita tratar o protocolo como se ele encerrasse o processo.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Hospital-dia em saúde mental em Brasília: como entender a proposta assistencial",
+    "url": "/conteudos/hospital-dia-saude-mental-brasilia/",
+    "description": "A modalidade costuma ocupar posição intermediária entre atendimento ambulatorial e internação integral, conforme avaliação clínica.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Pronto-socorro psiquiátrico em Brasília: quando buscar avaliação imediata",
+    "url": "/conteudos/pronto-socorro-psiquiatrico-brasilia/",
+    "description": "Sinais de risco, desorganização intensa ou mudança abrupta de comportamento podem exigir atendimento de urgência.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Consulta psiquiátrica: informações que ajudam a preparar a primeira conversa",
+    "url": "/conteudos/consulta-psiquiatrica-como-se-preparar/",
+    "description": "Histórico de sintomas, medicamentos, sono e impacto na rotina ajudam a tornar a avaliação mais organizada.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Telemedicina em psiquiatria: como preparar ambiente, conexão e informações",
+    "url": "/conteudos/telemedicina-psiquiatria-preparo/",
+    "description": "Privacidade, conexão estável e dados clínicos organizados ajudam a aproveitar melhor uma consulta remota.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Depressão e ansiedade em Brasília: como organizar busca por acompanhamento",
+    "url": "/conteudos/depressao-ansiedade-brasilia-acompanhamento/",
+    "description": "Reconhecer impacto funcional, duração dos sintomas e sinais de alerta ajuda a decidir quando procurar avaliação profissional.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Sondagem SPT: como ler informações básicas antes de discutir uma fundação",
+    "url": "/conteudos/sondagem-spt-relatorio/",
+    "description": "O relatório reúne resistência à penetração, camadas do solo e outras observações que ajudam o projeto geotécnico.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Estaca escavada: condições do terreno e da obra que entram no planejamento",
+    "url": "/conteudos/estaca-escavada-condicoes-de-obra/",
+    "description": "Acesso, estabilidade do furo, nível d’água e logística de concreto influenciam a execução.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Empresa de fundação: como comparar escopo, responsabilidades e dados de execução",
+    "url": "/conteudos/empresa-de-fundacao-comparar-propostas/",
+    "description": "Preço isolado não mostra diferenças de mobilização, controle, fornecimento e responsabilidades técnicas.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Estaca hélice contínua: logística, concreto e sequência de execução",
+    "url": "/conteudos/estaca-helice-continua-logistica/",
+    "description": "A técnica depende de equipamento específico, fornecimento contínuo de concreto e controle coordenado da perfuração.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Hélice contínua monitorada: quais parâmetros ajudam a acompanhar a execução",
+    "url": "/conteudos/helice-continua-monitorada-dados/",
+    "description": "Registros eletrônicos ajudam a documentar profundidade, pressão e volume durante a execução das estacas.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Ortodontia: o que a avaliação precisa considerar antes de um plano de tratamento",
+    "url": "/conteudos/ortodontia-avaliacao-planejamento/",
+    "description": "Alinhamento, mordida, saúde bucal e objetivos do paciente entram na definição das opções ortodônticas.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Lentes de contato dental: cuidados, indicações e limites da estética do sorriso",
+    "url": "/conteudos/lentes-de-contato-dental-estetica/",
+    "description": "Planejamento estético precisa considerar estrutura dental, mordida, cor, forma e preservação de tecido.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Harmonização orofacial: avaliação, planejamento e segurança antes do procedimento",
+    "url": "/conteudos/harmonizacao-orofacial-avaliacao/",
+    "description": "Objetivos, anatomia, produtos e qualificação profissional precisam ser discutidos antes de qualquer intervenção.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Clínica odontológica em Planaltina DF: como comparar atendimento, estrutura e planejamento",
+    "url": "/conteudos/clinica-odontologica-planaltina-como-escolher/",
+    "description": "Equipe, diagnóstico, documentação e clareza do plano ajudam a comparar opções além do preço.",
+    "type": "Conteúdo"
+  },
+  {
+    "title": "Dentista em Planaltina DF: como se preparar para a primeira consulta",
+    "url": "/conteudos/dentista-planaltina-primeira-consulta/",
+    "description": "Histórico de saúde, sintomas, exames anteriores e objetivos ajudam a tornar a avaliação mais completa.",
+    "type": "Conteúdo"
   },
   {
     "title": "Para que serve o suplemento Mounjax? Como avaliar informações antes de decidir",
-    "description": "Um roteiro de leitura crítica para separar proposta comercial, informações de rótulo, ingredientes e expectativas sobre o produto.",
-    "category": "Conteúdos",
-    "url": "/conteudos/para-que-serve-o-suplemento-mounjax-como-avaliar-informacoes/"
+    "url": "/conteudos/para-que-serve-o-suplemento-mounjax-como-avaliar-informacoes/",
+    "description": "Leitura neutra para separar proposta comercial, uso pretendido e informações que ainda precisam ser confirmadas em fontes adequadas.",
+    "type": "Conteúdo"
   }
 ]
