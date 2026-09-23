@@ -1,16 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: AhrefsBot
-Allow: /
-
-User-agent: AhrefsSiteAudit
-Allow: /
-
 Sitemap: https://vitrine-setorial-brasil.onrender.com/sitemap.xml
