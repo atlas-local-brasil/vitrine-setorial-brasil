@@ -1,0 +1,108 @@
+/* Vitrine Setorial Brasil V6 — contraste, legibilidade e acessibilidade visual */
+@import url('/assets/css/vitrine-v5.css');
+
+/* Texto-base e textos secundários em fundos claros */
+.v4{--v6-green:#4f7415;--v6-green-strong:#426312;--v6-muted:#4b6077;--v6-muted-strong:#40566d;--v6-meta:#53677c;--v6-blue:#105fb8;--v6-blue-strong:#0c4d95}
+.v4 .section-heading p,
+.v4 .category-card p,
+.v4 .directory-card p,
+.v4 .listing-content p,
+.v4 .content-card p,
+.v4 .trust-copy>p,
+.v4 .profile-content-link span,
+.v4 .sidebar-card p,
+.v4 .sidebar-card li,
+.v4 .fine-print{color:var(--v6-muted)!important}
+
+/* Labels e títulos pequenos verdes: mais escuros para leitura em branco/cinza */
+.v4 .eyebrow-dark,
+.v4 .card-kicker,
+.v4 .content-group .eyebrow-dark{color:var(--v6-green)!important}
+.v4 .eyebrow-dark:before{background:currentColor!important}
+
+/* Tags usadas nos cards claros */
+.v4 .badge{
+  background:#eef6dc!important;
+  color:var(--v6-green-strong)!important;
+  border:1px solid #d9e9b4;
+  font-weight:900;
+  letter-spacing:.035em;
+}
+
+/* Links pequenos e CTAs textuais em cards */
+.v4 .business-link,
+.v4 .content-link,
+.v4 .directory-card a.more,
+.v4 .content-meta a{
+  color:var(--v6-blue)!important;
+  font-weight:800;
+  text-decoration:none;
+}
+.v4 .business-link:hover,
+.v4 .content-link:hover,
+.v4 .directory-card a.more:hover,
+.v4 .content-meta a:hover{color:var(--v6-blue-strong)!important;text-decoration:underline;text-underline-offset:3px}
+
+/* Metadados e localização */
+.v4 .listing-location,
+.v4 .content-meta,
+.v4 .article-meta,
+.v4 .category-count{color:var(--v6-meta)!important;font-weight:600}
+
+/* Cards e blocos: borda ligeiramente mais definida */
+.v4 .listing-card,
+.v4 .content-card,
+.v4 .category-card,
+.v4 .directory-card,
+.v4 .article-card,
+.v4 .sidebar-card,
+.v4 .info-card{
+  border-color:#d3dfeb!important;
+}
+
+/* Botões claros/ghost com contorno e texto mais legíveis */
+.v4 .button.ghost,
+.v4 .business-official{
+  color:#0b58aa!important;
+  border:1px solid #b9d2ec!important;
+  background:#fff!important;
+  box-shadow:0 6px 16px rgba(10,42,75,.06)!important;
+}
+.v4 .button.ghost:hover,
+.v4 .business-official:hover{background:#eef6ff!important;border-color:#8bb8e5!important;color:#084786!important}
+
+/* Home: seção escura mantém verde claro apenas sobre fundo escuro */
+.v4-news .eyebrow,
+.v4 .section-dark .eyebrow{color:#d6f47f!important}
+.v4-news .eyebrow:before,
+.v4 .section-dark .eyebrow:before{background:currentColor!important}
+.v4-news .section-heading p,
+.v4 .section-dark .section-heading p{color:#c5d4e3!important}
+.v4-news .content-card p{color:#4b6077!important}
+.v4-news .content-meta{color:#53677c!important}
+
+/* Bloco institucional: pequenos textos em painel escuro */
+.v4 .v4-topic-box small{color:#d3dfeb!important;opacity:1!important}
+.v4 .v4-topic-box .eyebrow{color:#d6f47f!important}
+
+/* Rodapé: melhora textos secundários sem perder hierarquia */
+.v4 .site-footer{color:#c5d2df!important}
+.v4 .footer-brand p{color:#c5d2df!important}
+.v4 .footer-status{color:#b7c8d8!important}
+.v4 .footer-links a{color:#c9d6e3!important}
+.v4 .footer-links a:hover{color:#fff!important}
+.v4 .footer-bottom{color:#9fb3c6!important}
+
+/* Acessibilidade de foco */
+.v4 a:focus-visible,
+.v4 button:focus-visible,
+.v4 input:focus-visible{
+  outline:3px solid #ffbf47!important;
+  outline-offset:3px!important;
+}
+
+/* Pequenos reforços de tipografia para telas menores */
+@media(max-width:820px){
+  .v4 .listing-location,.v4 .content-meta,.v4 .fine-print{font-size:.84rem!important}
+  .v4 .badge{font-size:.68rem!important}
+}
