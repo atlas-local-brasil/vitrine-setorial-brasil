@@ -1,0 +1,18 @@
+VITRINE SETORIAL BRASIL — V6 CONTRASTE E LEGIBILIDADE
+
+Atualização sobre a V5 refinada.
+
+Principais ajustes:
+- labels verdes escurecidos em fundos claros;
+- tags/categorias com texto verde escuro e fundo claro;
+- descrições e textos secundários com maior contraste;
+- localização, datas e metadados mais legíveis;
+- links pequenos e CTAs textuais reforçados;
+- botões claros com borda mais visível;
+- textos do rodapé reforçados;
+- estados de foco para teclado;
+- layout, URLs, conteúdos e imagens preservados.
+
+PUBLICAÇÃO NO RENDER
+Substitua o conteúdo da pasta site/ no repositório existente.
+Mantenha Publish Directory: site

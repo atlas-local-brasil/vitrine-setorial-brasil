@@ -1,0 +1,17 @@
+Vitrine Setorial Brasil V7 — Refinamento Final
+
+Objetivo desta versão:
+- padronizar alinhamentos e espaçamentos entre Home, Serviços, Negócios, Conteúdos, perfis e artigos;
+- centralizar visualmente grids incompletos (5 cards e 10 guias);
+- uniformizar cards, imagens, botões, títulos e metadados;
+- melhorar o perfil individual (5ª leitura em largura total);
+- refinar largura de leitura e sidebar dos artigos;
+- padronizar CTA final e rodapé;
+- manter contraste, conteúdo, URLs e SEO da V6.
+
+PUBLICAÇÃO NO RENDER
+1. Use o repositório existente atlas-local-brasil/vitrine-setorial-brasil.
+2. Substitua o conteúdo da pasta site/ do repositório pelo conteúdo da pasta site/ desta versão.
+3. Faça o commit.
+4. O Render continuará usando Publish Directory: site.
+5. Não crie outro projeto.

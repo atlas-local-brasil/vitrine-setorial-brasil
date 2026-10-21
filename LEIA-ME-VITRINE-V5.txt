@@ -1,0 +1,13 @@
+VITRINE SETORIAL BRASIL — V5 REFINAMENTO VISUAL
+
+Esta versão corrige os pontos identificados após a publicação da V4:
+- heros de Serviços, Negócios e Conteúdos com contraste correto;
+- imagens dos cards em proporção 16:9 sem cortes verticais;
+- grids mais confortáveis em notebooks e desktops;
+- cards de negócios e conteúdos com alturas e espaçamentos padronizados;
+- página de conteúdos com grupos mais legíveis;
+- perfil e artigos com melhor acabamento;
+- rodapé e CTA refinados.
+
+Publicação: mantenha a estrutura do repositório atual e substitua a pasta site/ pela pasta site/ deste pacote.
+O Render deve continuar com Publish Directory = site.

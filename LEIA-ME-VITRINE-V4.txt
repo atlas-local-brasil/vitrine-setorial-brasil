@@ -1,0 +1,14 @@
+VITRINE SETORIAL BRASIL — V4
+
+Projeto: https://vitrine-setorial-brasil.onrender.com/
+Hospedagem: Render (Static Site)
+Estrutura publicada: pasta site/
+
+ATUALIZAÇÃO
+1. Substitua no repositório GitHub os arquivos atuais pelos arquivos desta pasta.
+2. Preserve a pasta site/ na raiz do repositório.
+3. Faça commit e push.
+4. O Render deverá iniciar um novo deploy automaticamente.
+5. Confirme que o serviço continua apontando Publish Directory = site.
+
+A V4 mantém os arquivos de verificação Google e Ahrefs, robots.txt e sitemap.xml.
